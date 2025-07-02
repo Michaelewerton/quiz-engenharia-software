@@ -10,8 +10,6 @@ Projeto de jogo educacional desenvolvido em Unity, com lógica programada em C#,
 
 ##  Diagrama UML
 
-![Diagrama UML](diagrama-uml.png)
-
 ---
 
 ##  Funcionalidades
